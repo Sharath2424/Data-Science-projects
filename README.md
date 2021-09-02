@@ -1,2 +1,2 @@
 # Data-Science Projects
-It consists of data science projects.
+End-to-end analytics and machine learning projects.
